@@ -20,10 +20,11 @@ time delay stop time value.
 obtained.
 
 ## CIRCUIT DIAGRAM:
-
+![WhatsApp Image 2025-11-28 at 10 34 53_88609c43](https://github.com/user-attachments/assets/37c3308e-2bd0-463a-83d6-661076192b74)
 
 
 ## OUTPUT GRAPH:
+![WhatsApp Image 2025-11-28 at 10 34 53_88609c43](https://github.com/user-attachments/assets/09a1bfd4-f9e7-42eb-a36e-9542d5926b29)
 
 
 ## RESULT:
